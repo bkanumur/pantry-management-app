@@ -1,1 +1,0 @@
-# pantry-management-app
